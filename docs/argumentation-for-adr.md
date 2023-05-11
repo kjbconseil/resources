@@ -9,7 +9,7 @@
 - https://github.com/joelparkerhenderson/architecture-decision-record
 
 ## Read this one to embrace a global philosophy (Optional)
-- [https://martinfowler.com/articles/scaling-architecture-conversationally.html#WhentraditionalApproachesToArchitectureBreakDown](https://martinfowler.com/articles/scaling-architecture-conversationally.html#WhentraditionalApproachesToArchitectureBreakDown)
+- [WhentraditionalApproachesToArchitectureBreakDown](https://martinfowler.com/articles/scaling-architecture-conversationally.html#WhentraditionalApproachesToArchitectureBreakDown)
 
 
 ## Resume
