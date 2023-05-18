@@ -15,7 +15,7 @@ We agreed to introduce:
 - build & unit tests pipeline must be triggered in opened pull requests
 - build & unit tests & integration tests (if existing) must be triggered for every commits on main
 - nobody SHOULD push on main branch (some exceptions could be tolerated if everyone is agreed)
-- you SHOULD apply [SOLID principle](https://procodeguide.com/design/solid-principles-with-csharp-net-core/)
+- you SHOULD apply [SOLID principle](https://alexsoyes.com/solid/#s-single-responsibility-principle-srp)
 - anyone MUST try to keep things [KISS](https://en.wikipedia.org/wiki/KISS_principle)
 - [You Ain't Gonna Need It](https://fr.wikipedia.org/wiki/YAGNI) principle SHOULD be kept in mind BUT not too strictly apply
 - [Do not Repeat Yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) principle SHOULD be followed BUT not too strictly apply
