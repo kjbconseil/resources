@@ -10,7 +10,7 @@ We agreed to introduce:
 
 ## Global
 - every work MUST be reviewed by, at least, one other developer that the one that produced the work
-- you MUST cover your code with unit test but not be too much focus on it
+- you MUST cover your code with [tests](https://mickaelwegerich.medium.com/un-test-peut-en-cacher-un-autre-un-peu-de-th%C3%A9orie-6df532424edd) but not be too much focus on it
 - main branch on GIT MUST be protected and CAN NOT be deleted
 - build & unit tests pipeline must be triggered in opened pull requests
 - build & unit tests & integration tests (if existing) must be triggered for every commits on main
