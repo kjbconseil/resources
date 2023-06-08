@@ -20,7 +20,7 @@ We agreed to introduce:
 - [You Ain't Gonna Need It](https://fr.wikipedia.org/wiki/YAGNI) principle SHOULD be kept in mind BUT not too strictly apply
 - [Do not Repeat Yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself) principle SHOULD be followed BUT not too strictly apply
 - you SHOULD try to embrace [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) (Hexagonal or Oignon Architecture)
-- you SHOULD keep in mind [DDD concepets]()
+- you SHOULD keep in mind [DDD concepts]()
 - avoid usage of acronyms as much as possible 
 - usage of business/functional wording as much as possible 
 - you SHOULD focus you code on business rules, not technical choices to support them
